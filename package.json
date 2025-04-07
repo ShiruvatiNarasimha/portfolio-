@@ -8,6 +8,5 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
   },
   }
